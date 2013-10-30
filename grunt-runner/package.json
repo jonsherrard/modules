@@ -1,0 +1,22 @@
+{
+  "name": "grunt-runner",
+  "version": "0.0.1",
+  "description": "Run grunt with your Node app.",
+  "main": "grunt-runner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jonsherrard/modules.git"
+  },
+  "keywords": [
+    "grunt",
+    "runner"
+  ],
+  "author": "Jon Sherrard <jon@andthats.it>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jonsherrard/modules/issues"
+  }
+}
